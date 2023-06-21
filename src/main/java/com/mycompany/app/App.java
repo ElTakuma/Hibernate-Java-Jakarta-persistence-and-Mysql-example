@@ -12,7 +12,11 @@ import java.util.Optional;
 
 
 /**
- * Hello world!
+ * Hibernate Java Jakarta Persistence and Mysql Example
+ *
+ * @author  Roméo Tatchemo
+ * @version 1.0
+ * @since   2023-05-10
  */
 public class App {
 

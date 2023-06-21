@@ -5,10 +5,11 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import java.util.List;
-import java.util.Optional;
 
 /**
  * Generic crud entity class
+ * @author  Roméo Tatchemo
+ * @version 1.0
  * @param <Entity>
  */
 public class CrudJpa<Entity> {
