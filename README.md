@@ -1,0 +1,1 @@
+### __Hibernate Java Jakarta Persistence and Mysql Example__
